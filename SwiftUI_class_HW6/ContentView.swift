@@ -51,6 +51,7 @@ struct ContentView: View {
                             .frame(width: 50, height: 50)
                         Text("台灣麻將計算機")
                             .font(.title)
+                            .bold()
                     }
                 }
             }
